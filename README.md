@@ -1,2 +1,1 @@
-# repositorio-n1
-repositorio de prueba modulo  2 curso henry 
+prueba de como crear un repositorio y clonarlo de github a la pc
